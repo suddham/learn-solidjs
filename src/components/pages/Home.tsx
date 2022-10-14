@@ -1,11 +1,11 @@
 import { Component } from "solid-js";
 
-const Nav: Component = () => {
+const Home: Component = () => {
     return (
         <div>
-            <h2>Nav</h2>
+            <h2>Home</h2>
         </div>
     );
 };
 
-export default Nav;
+export default Home;
